@@ -12,6 +12,7 @@ library(ggrepel)
 library(gganimate)
 library(lubridate)
 library(gganimate)
+library(readxl)
 
 #Start with LA level cases for the whole of the UK
 cases <- tempfile()
